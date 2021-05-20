@@ -1,0 +1,9 @@
+[submodule "05/card-anatomy-first-draft"]
+	path = 05/card-anatomy-first-draft
+	url = https://github.com/nkarl/jba-py-card-anatomy-first-draft
+[submodule "05/card-anatomy"]
+	path = 05/card-anatomy
+	url = https://github.com/nkarl/jba-py-card-anatomy
+[submodule "05/simple-banking-system"]
+	path = 05/simple-banking-system
+	url = https://github.com/nkarl/jba-py-simple-banking-system
