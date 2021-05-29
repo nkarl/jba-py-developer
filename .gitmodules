@@ -10,3 +10,6 @@
 [submodule "11/duplicate-file-handler"]
 	path = 11/duplicate-file-handler
 	url = https://github.com/nkarl/jba-py-duplicate-file-hanlder
+[submodule "11/Markdown-Editor"]
+	path = 11/Markdown-Editor
+	url = https://github.com/nkarl/jba-py-markdown-editor
