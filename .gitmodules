@@ -7,3 +7,6 @@
 [submodule "05/simple-banking-system"]
 	path = 05/simple-banking-system
 	url = https://github.com/nkarl/jba-py-simple-banking-system
+[submodule "11/duplicate-file-handler"]
+	path = 11/duplicate-file-handler
+	url = https://github.com/nkarl/jba-py-duplicate-file-hanlder
