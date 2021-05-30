@@ -13,3 +13,6 @@
 [submodule "11/Markdown-Editor"]
 	path = 11/Markdown-Editor
 	url = https://github.com/nkarl/jba-py-markdown-editor
+[submodule "13/numeric-matrix-processor"]
+	path = 13/numeric-matrix-processor
+	url = https://github.com/nkarl/jba-py-numeric-matrix-processor
