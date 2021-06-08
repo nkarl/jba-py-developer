@@ -19,3 +19,6 @@
 [submodule "18/regex-engine"]
 	path = 18/regex-engine
 	url = https://github.com/nkarl/jba-py-regex-engine
+[submodule "28-June-6/weather-app"]
+	path = 28-June-6/weather-app
+	url = https://github.com/nkarl/jba-py-weather-app-flask
