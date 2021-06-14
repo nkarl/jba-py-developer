@@ -22,3 +22,6 @@
 [submodule "23-June-6/weather-app"]
 	path = 23-June-6/weather-app
 	url = https://github.com/nkarl/jba-py-weather-app-flask
+[submodule "30-June-13/web-scraper"]
+	path = 30-June-13/web-scraper
+	url = https://github.com/nkarl/jba-py-web-scraper
