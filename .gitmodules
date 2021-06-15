@@ -25,3 +25,6 @@
 [submodule "30-June-13/web-scraper"]
 	path = 30-June-13/web-scraper
 	url = https://github.com/nkarl/jba-py-web-scraper
+[submodule "31-June-14/data-analysis-pandas"]
+	path = 31-June-14/data-analysis-pandas
+	url = https://github.com/nkarl/jba-py-data-analysis-pandas
