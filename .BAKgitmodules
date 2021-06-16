@@ -1,0 +1,30 @@
+[submodule "05/card-anatomy-1st-draft"]
+	path = 05/card-anatomy-01
+	url = https://github.com/nkarl/jba-py-card-anatomy-1st-draft
+[submodule "05/card-anatomy-2nd-draft"]
+	path = 05/card-anatomy-02
+	url = https://github.com/nkarl/jba-py-card-anatomy-2nd-draft
+[submodule "05/simple-banking-system"]
+	path = 05/simple-banking-system
+	url = https://github.com/nkarl/jba-py-simple-banking-system
+[submodule "11/duplicate-file-handler"]
+	path = 11/duplicate-file-handler
+	url = https://github.com/nkarl/jba-py-duplicate-file-hanlder
+[submodule "11/Markdown-Editor"]
+	path = 11/Markdown-Editor
+	url = https://github.com/nkarl/jba-py-markdown-editor
+[submodule "13/numeric-matrix-processor"]
+	path = 13/numeric-matrix-processor
+	url = https://github.com/nkarl/jba-py-numeric-matrix-processor
+[submodule "18/regex-engine"]
+	path = 18/regex-engine
+	url = https://github.com/nkarl/jba-py-regex-engine
+[submodule "23-2021-06-6/weather-app"]
+	path = 23-2021-06-6/weather-app
+	url = https://github.com/nkarl/jba-py-weather-app-flask
+[submodule "30-2021-06-13/web-scraper"]
+	path = 30-2021-06-13/web-scraper
+	url = https://github.com/nkarl/jba-py-web-scraper
+[submodule "31-2021-06-14/data-analysis-pandas"]
+	path = 31-2021-06-14/data-analysis-pandas
+	url = https://github.com/nkarl/jba-py-data-analysis-pandas
