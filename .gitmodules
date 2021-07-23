@@ -31,3 +31,6 @@
 [submodule "testing_ground"]
 	path = testing_ground
 	url = https://github.com/nkarl/jba-py-testing-ground
+[submodule ".\\30-2021-06-13-SUN\\web-scraper\\"]
+	path = .\\30-2021-06-13-SUN\\web-scraper\\
+	url = https://github.com/nkarl/jba-py-web-scraper
