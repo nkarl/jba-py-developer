@@ -22,15 +22,12 @@
 [submodule "23-2021-06-06-SUN/weather-app-flask"]
 	path = 23-2021-06-06-SUN/weather-app-flask
 	url = https://github.com/nkarl/jba-py-weather-app-flask
-;[submodule "30-2021-06-13-SUN/web-scraper"]
-    ;path = 30-2021-06-13-SUN/web-scraper
-    ;url = https://github.com/nkarl/jba-py-web-scraper
+[submodule "30-2021-06-13-SUN/web-scraper"]
+    path = 30-2021-06-13-SUN/web-scraper
+    url = https://github.com/nkarl/jba-py-web-scraper
 [submodule "33-2021-06-16-WED/foodblog-backend"]
 	path = 33-2021-06-16-WED/foodblog-backend
 	url = https://github.com/nkarl/jba-py-foodblog-backend
 [submodule "testing_ground"]
 	path = testing_ground
 	url = https://github.com/nkarl/jba-py-testing-ground
-[submodule ".\\30-2021-06-13-SUN\\web-scraper\\"]
-	path = .\\30-2021-06-13-SUN\\web-scraper\\
-	url = https://github.com/nkarl/jba-py-web-scraper
