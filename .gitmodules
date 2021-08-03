@@ -31,3 +31,6 @@
 [submodule "testing_ground"]
 	path = testing_ground
 	url = https://github.com/nkarl/jba-py-testing-ground
+[submodule "77-2021-07-30-FRI/loan-calculator"]
+	path = 77-2021-07-30-FRI/loan-calculator
+	url = https://github.com/nkarl/jba-py-loan-calculator
