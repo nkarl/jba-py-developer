@@ -34,3 +34,6 @@
 [submodule "77-2021-07-30-FRI/loan-calculator"]
 	path = 77-2021-07-30-FRI/loan-calculator
 	url = https://github.com/nkarl/jba-py-loan-calculator
+[submodule "79-2021-08-01-SUN/hyper-forms"]
+	path = 79-2021-08-01-SUN/hyper-forms
+	url = https://github.com/nkarl/jba-py-hyper-forms
