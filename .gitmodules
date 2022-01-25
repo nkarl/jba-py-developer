@@ -1,3 +1,6 @@
 [submodule "Coffee Machine"]
 	path = Coffee Machine
 	url = https://github.com/nkarl/jba-py-coffee-machine
+[submodule "Text-Based Browser"]
+	path = Text-Based Browser
+	url = https://github.com/nkarl/jba-py-text-based-browser.git
